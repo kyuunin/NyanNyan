@@ -13,7 +13,7 @@ Exodia
 --------------------------
 Eine alternative Methode um zu gewinnen ist mit **_Exodia_**, was man aus Poker auch als **_Royal Flush_** (**A**,**K**,**Q**,**J**,**10** der selben Farbe) kennt. Fals man **_Exodia_** auf der Hand hat, muss man es einfach Vorzeigen und man beendet.
 
-### +20 Karten ziehen
+### +20 Karten ziehenn
 Wenn man 20 oder mehr Karten auf einmal ziehen muss, scheidet man aus dem Spiel aus.
 
 ### +32 Karten Hand
@@ -26,3 +26,32 @@ Der Spieler der zuerst beendet wird erster, der nächste der beendet wird 2. usw
 
 Karten Effekte
 --------------------------
+Alle Karten Effekte werden aktiviert, wenn die Karte gespielt wird. (Ausser der Effekt sagt anders)
+
+### 2-doppeltes Aussetzen
+- Die nächsten 2 <ins>n</ins> Spieler setzen aus
+- <ins>n</ins> wir auf 1 gesetzt
+### 3-3er Runde
+- Es darf nur **3** gespielt werden
+- Der Effekt dieser Karte wird durch die n&auml; **3** aufgehoben
+- Die n&auml;chste **3** hat keinen Effekt
+- Nach <ins>n</ins> Runden ist der Effekt automatisch aufgehoben
+- <ins>n</ins> wird auf 1 gesetzt
+### 4-4 Ziehen
+- Der n&auml;chste Spieler muss **4** <ins>n</ins> Karten ziehen
+- <ins>n</ins> wird auf 1 gesetzt
+### 5-Fusion
+- Man muss <ins>n</ins> belibige Karten auf die **5** legen
+- Diese Karten haben keinen Effekt
+- Wenn man 2 **5** auf einmal spielt darf man 2 <ins>n</ins> Karten drauflegen (nicht bis zu)
+- <ins>n</ins> wird auf 1 gesetzt
+### 6-Stechen
+### 7-2 Ziehen
+### 8-Aussetzen
+### 9-Richtungswechsel
+### 10-extra Runde
+### J-Farbwunsch
+### Q-Hofdame
+### K-königlicher Befehl
+### A-Amplifier
+### &#9733;-Joker
