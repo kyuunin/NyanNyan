@@ -32,20 +32,24 @@ Diese Liste ist aufsteigend nach Wert sortiert
 ### 2-doppeltes Aussetzen
 - Die nächsten 2 <ins>n</ins> Spieler setzen aus
 - <ins>n</ins> wir auf 1 gesetzt
+
 ### 3-3er Runde
 - Es darf nur **3** gespielt werden
 - Der Effekt dieser Karte wird durch die n&auml; **3** aufgehoben
 - Die n&auml;chste **3** hat keinen Effekt
 - Nach <ins>n</ins> Runden ist der Effekt automatisch aufgehoben
 - <ins>n</ins> wird auf 1 gesetzt
+
 ### 4-4 Ziehen
 - Der n&auml;chste Spieler muss **4** <ins>n</ins> Karten ziehen
 - <ins>n</ins> wird auf 1 gesetzt
+
 ### 5-Fusion
 - Man muss <ins>n</ins> belibige Karten auf die **5** legen
 - Diese Karten haben keinen Effekt
 - Wenn man 2 **5** auf einmal spielt darf man 2 <ins>n</ins> Karten drauflegen (nicht bis zu)
 - <ins>n</ins> wird auf 1 gesetzt
+
 ### 6-Stechen
 - Jeder Spieler legt <ins>n</ins> Karten verdeckt auf den Tisch
 - Wenn jeder seine Karten gelegt hat, werden aufgedeckt
