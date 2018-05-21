@@ -86,7 +86,8 @@ Diese Liste ist aufsteigend nach Wert sortiert
 - Wenn diese Karte gelegt wird, wird die nächste Karte vom Nachziestapel daraufgelegt
 - Der Effekt der darauf gelegten Karte wird gewertet
 - <ins>n</ins> zählt nur für die darauf gelegte Karte
-- Falls die darauf gelegte Karte eine Dame ist, wird noch eine Karte aufgedeckt <ins>n</ins> geht dann auch an die nächste Karte weiter
+- Falls die darauf gelegte Karte eine Dame ist, wird noch eine Karte aufgedeckt
+- <ins>n</ins> geht dann auch an die nächste Karte weiter
 
 ### K-königlicher Befehl
 - Man muss <ins>n</ins> **Befehle** verteilen
