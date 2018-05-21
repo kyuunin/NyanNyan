@@ -88,6 +88,8 @@ Diese Liste ist aufsteigend nach Wert sortiert
 - <ins>n</ins> zählt nur für die darauf gelegte Karte
 - Falls die darauf gelegte Karte eine Dame ist, wird noch eine Karte aufgedeckt
 - <ins>n</ins> geht dann auch an die nächste Karte weiter
+- Wird ein &#9733; aufgedeckt, muss man ihn auf die Hand nehmen
+- Wird eine 5-Fusion aufgedeckt und man könnte den Effekt nicht wirken, muss man die Karte auf die Hand nehmen
 
 ### K-königlicher Befehl
 - Man muss <ins>n</ins> **Befehle** verteilen
