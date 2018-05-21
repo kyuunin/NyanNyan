@@ -83,7 +83,10 @@ Diese Liste ist aufsteigend nach Wert sortiert
 - Man darf auswählen welche die aktive Farbe sein soll
 
 ### Q-Hofdame
-- Diese Karte kann unabhängig der aktuellen Farbe gespielt werden
+- Wenn diese Karte gelegt wird, wird die nächste Karte vom Nachziestapel daraufgelegt
+- Der Effekt der darauf gelegten Karte wird gewertet
+- <ins>n</ins> zählt nur für die darauf gelegte Karte
+- Falls die darauf gelegte Karte eine Dame ist, wird noch eine Karte aufgedeckt <ins>n</ins> geht dann auch an die nächste Karte weiter
 
 ### K-königlicher Befehl
 - Man muss <ins>n</ins> **Befehle** verteilen
