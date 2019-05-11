@@ -51,15 +51,13 @@ Diese Liste ist aufsteigend nach Wert sortiert
 - <ins>n</ins> wird auf 1 gesetzt
 
 ### 6-Stechen
-- Jeder Spieler legt <ins>n</ins> Karten verdeckt auf den Tisch
+- Jeder Spieler legt 1 Karten verdeckt auf den Tisch
 - Wenn jeder seine Karten gelegt hat, werden aufgedeckt
 - Der Spieler dessen höchste Karte den kleinsten Wert hat, verliert das Stechen
 - Wenn 2 oder mehr Spieler den kleinsten Wert haben, vergleichen diese die nächst kleinere bis ein Verlierer ermittelt werden konnte
 - Wenn keinen Verlierer ermittelt werden kann, spielen alle Spieler eine neue Karte verdeckt (die alten Karten zählen immer noch)
 - Dies wird solange wiederholt bis ein verlierer fest steht
 - Der Verlierer des Stechen muss alle Karten aufnehmen
-- Falls ein Spieler nicht genug Karten für das Stechen hat muss er so lange ziehen bis er ausreichend karten hat
-- <ins>n</ins> wird auf 1 gesetzt
 
 ### 7-2 Ziehen
 - Der nächste Spieler muss 2 <ins>n</ins> Karten ziehen
