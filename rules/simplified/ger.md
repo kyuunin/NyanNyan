@@ -1,11 +1,11 @@
 Nyan Nyan
 ==========================
 
-Algemein
+[Algemein](../ger.md#algemein)
 --------------------------
 Die Regeln basieren auf [Mau Mau](https://de.wikipedia.org/wiki/Mau-Mau_(Kartenspiel))
 
-Gewinnen/Verlieren
+[Gewinnen/Verlieren](../ger.md#gewinnenverlieren)
 ---------------------------
 Wenn man nur noch eine Karte hat muss man **_Nyan_** sagen. Wenn man dies nicht tut, muss man 2 Karten ziehen. Wenn man seine letzte Karte spielt muss man **_Nyan Nyan_** sagen und dann gewinnt man. Wenn man dies nicht tut muss man 7 Karten ziehen. 
 
