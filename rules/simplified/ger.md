@@ -31,7 +31,7 @@ Karten Effekte
 - Es darf nur **3** gespielt werden, bis zum Ende der Runde oder bis zur nächsten 3
 
 ### 4-4 Ziehen
-- Der n&auml;chste Spieler muss **4** <ins>n</ins> Karten ziehen
+- Der n&auml;chste Spieler muss **4** Karten ziehen
 
 ### 5-Fusion
 - Man muss 1 belibige Karte auf die **5** legen
