@@ -14,7 +14,7 @@ Exodia
 --------------------------
 Eine alternative Methode um zu gewinnen ist mit **_Exodia_**, was man aus Poker auch als **_Royal Flush_** (**A**,**K**,**Q**,**J**,**10** der selben Farbe) kennt. Fals man **_Exodia_** auf der Hand hat, muss man es einfach Vorzeigen und man beendet.
 
-### +20 Karten ziehenn
+### +20 Karten ziehen
 Wenn man 20 oder mehr Karten auf einmal ziehen muss, scheidet man aus dem Spiel aus.
 
 ### +32 Karten Hand
