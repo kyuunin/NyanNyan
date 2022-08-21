@@ -3,6 +3,7 @@ Nyan Nyan
 
 Algemein
 --------------------------
+Die Regeln basieren auf [Mau Mau](https://de.wikipedia.org/wiki/Mau-Mau_(Kartenspiel))
 
 Gewinnen/Verlieren
 ---------------------------
@@ -69,12 +70,5 @@ Karten Effekte
 - der nächste Effekt wird verdoppelt
 
 ### &#9733;-Joker
-- Diese Karte kann unabhängig der Farbe gespielt werden
-- Wenn diese Karte die oberste Karte ist, zählt die Karte unter dieser als oberste
-- Diese Karte kann gespielt werden wenn man von einem Effect getroffen wird (**4**,**6**, **7**, **K**)
-- Zieh Effekte werden auf den nächsten Spieler übertragen
-- Wenn der **&#9733;** als Reaktion auf **K** gespielt wird, wird ein **Befehl** aufgehoben
-- Als Reaktion auf **6** enthält man sich aus dem Stechen
-- Diese Karte darf auch gespielt werden, wenn eine **3er Runde** aktiv ist
-- Sollte &#9733; als 1. Karte liegen darf eine belibige Karte gepielt werden
-- <ins>n</ins> wird auf 1 gesetzt
+- Du kannst diese Karte auf jede andere spielen.
+- Du kannst diese Karte von deiner Handablegen um dich von anderen Effekten zu schützen
