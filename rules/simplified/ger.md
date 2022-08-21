@@ -12,7 +12,7 @@ Wenn man nur noch eine Karte hat muss man **_Nyan_** sagen. Wenn man dies nicht 
 ### Exodia
 Wenn man **A**,**K**,**Q**,**J**,**10** der selben Farbe vorzeigt gewinnt man.
 
-### +20 Karten ziehenn
+### +20 Karten ziehen
 Wenn man 20 oder mehr Karten auf einmal ziehen muss, verliert man.
 
 ### +32 Karten Hand
@@ -71,4 +71,4 @@ Karten Effekte
 
 ### &#9733;-Joker
 - Du kannst diese Karte auf jede andere spielen.
-- Du kannst diese Karte von deiner Handablegen um dich von anderen Effekten zu schützen
+- Du kannst diese Karte von deiner Hand ablegen, um dich von anderen Effekten zu schützen
