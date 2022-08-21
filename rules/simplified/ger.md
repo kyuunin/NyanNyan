@@ -9,19 +9,19 @@ Die Regeln basieren auf [Mau Mau](https://de.wikipedia.org/wiki/Mau-Mau_(Kartens
 ---------------------------
 Wenn man nur noch eine Karte hat muss man **_Nyan_** sagen. Wenn man dies nicht tut, muss man 2 Karten ziehen. Wenn man seine letzte Karte spielt muss man **_Nyan Nyan_** sagen und dann gewinnt man. Wenn man dies nicht tut muss man 7 Karten ziehen. 
 
-### Exodia
+### [Exodia](../ger.md#exodia)
 Wenn man **A**,**K**,**Q**,**J**,**10** der selben Farbe vorzeigt gewinnt man.
 
-### +20 Karten ziehen
+### [+20 Karten ziehen](../ger.md#20-karten-ziehen)
 Wenn man 20 oder mehr Karten auf einmal ziehen muss, verliert man.
 
-### +32 Karten Hand
+### [+32 Karten Hand](../ger.md#32-karten-hand)
 Wenn man 32 oder mehr Karten auf der Hand hat, verliert man.
 
-### Leeres Deck
+### [Leeres Deck](../ger.md#leeres-deck)
 Wenn das _Deck_ leer ist, wird der _Ablegestapel_ ins Deck gemischt
 
-Karten Effekte
+[Karten Effekte](../ger.md#karten-effekte)
 --------------------------
 
 ### 2-doppeltes Aussetzen
