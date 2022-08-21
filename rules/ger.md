@@ -7,7 +7,8 @@ Nyan Nyan wird mit einer beliebigen Anzahl von vollen Blättern (52 Karten + 2-4
 
 Gewinnen/Verlieren
 ---------------------------
-Wenn man nur noch eine Karte hat muss man **_Nyan_** sagen. Wenn man dies nicht tut, muss man 2 Karten ziehen. Wenn man seine letzte Karte spielt muss man **_Nyan Nyan_** sagen und beendet damit (der jenige der zu erst **_Nyan Nyan_** sagt, beendet zu erst). Wenn man dies nicht tut muss man 7 Karten ziehen
+Wenn man nur noch eine Karte hat muss man **_Nyan_** sagen. Wenn man dies nicht tut, muss man 2 Karten ziehen. Wenn man seine letzte Karte spielt muss man **_Nyan Nyan_** sagen und beendet damit (der jenige der zu erst **_Nyan Nyan_** sagt, beendet zu erst). Wenn man dies nicht tut muss man 7 Karten ziehen.\
+Man hat Zeit bis zum ende des Zuges des nächsten Spielers.
 
 Exodia
 --------------------------
@@ -31,7 +32,7 @@ Diese Liste ist aufsteigend nach Wert sortiert
 
 ### 2-doppeltes Aussetzen
 - Die nächsten 2 <ins>n</ins> Spieler setzen aus
-- <ins>n</ins> wir auf 1 gesetzt
+- <ins>n</ins> wird auf 1 gesetzt
 
 ### 3-3er Runde
 - Es darf nur **3** gespielt werden
@@ -52,6 +53,7 @@ Diese Liste ist aufsteigend nach Wert sortiert
 
 ### 6-Stechen
 - Jeder Spieler legt 1 Karten verdeckt auf den Tisch
+- Wenn man keine Karten hat, so legt man die oberste Karte des Decks
 - Wenn jeder seine Karten gelegt hat, werden aufgedeckt
 - Der Spieler dessen höchste Karte den kleinsten Wert hat, verliert das Stechen
 - Wenn 2 oder mehr Spieler den kleinsten Wert haben, vergleichen diese die nächst kleinere bis ein Verlierer ermittelt werden konnte
